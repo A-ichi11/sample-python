@@ -7,3 +7,5 @@ for w in words:
 print("testです")
 
 print("testtesttest")
+
+print("test")

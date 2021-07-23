@@ -5,3 +5,7 @@ for w in words:
     print(w,len(w))
 
 print("testです")
+
+print("testtesttest")
+
+print("test")
